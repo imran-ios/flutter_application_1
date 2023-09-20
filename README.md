@@ -1,2 +1,3 @@
-# flutter_application_1
-This is my first flutter application
+# hello_flutter
+
+This is my hello flutter application
